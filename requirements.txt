@@ -1,0 +1,4 @@
+openai  # OpenAI API
+python-dotenv # Load environment variables from .env file
+markdown-pdf # Convert markdown to PDF
+pyperclip # Give copy/paste access to the clipboard
